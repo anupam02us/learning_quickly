@@ -25,3 +25,12 @@ https://github.com/lerndevops/interview-questions-answers/tree/main/jenkins
 https://github.com/lerndevops/interview-questions-answers/blob/main/devops/devops-interview-1.pdf
 https://github.com/lerndevops/interview-questions-answers/tree/main/git
 https://github.com/lerndevops/interview-questions-answers/blob/main/prometheus-grafana/How_to_monitor_a_Linux_server_using_Prometheus_Grafana.pdf
+
+
+CKA exam prepartion guide:--
+https://github.com/leandrocostam/cka-preparation-guide
+https://kodekloud.com/blog/cka-exam-prep/
+https://praveendandu24.medium.com/crack-the-cka-exam-in-one-shot-proven-tips-for-first-time-success-58138c2971ef
+https://www.zhaohuabing.com/post/2022-02-08-how-to-prepare-cka-en/
+https://medium.com/@hiteshgondalia/preparation-for-cka-certified-kubernetes-administrator-a7233015d546
+https://realitexams.com/real-cka-exam-pdf-questions/?gad_source=1&gclid=Cj0KCQjw5cOwBhCiARIsAJ5njuYIYwQHJu_lpSRTzCHuRHsZNTTgHSvNiRZ8wLUNr6C30ISSfiwj8I4aAsKPEALw_wcB
